@@ -42,8 +42,40 @@ Ciências da computação - UniCEUB
 
 # Cursos de Aperfeiçoamento
 
-- Lógica de Programação com Orientação à Objeto - SENAC 2006
-- Banco de dados SQL Server 2005 - SENAC 2006
-- Linguagem de programação Java - SENAC 2007
+- Lógica de Programação com Orientação à Objeto - SENAC 2006 (http://www.senac.br/)
+- Banco de dados SQL Server 2005 - SENAC 2006 (http://www.senac.br/)
+- Linguagem de programação Java - SENAC 2007 (http://www.senac.br/)
+- Noções em segurança da informação - ANDRESOUTO 2017 (http://www.andradesoto.com.br/)
+- AngularJS - Algaworks 2017 (http://www.algaworks.com)
+- TypeScript - Algaworkds 2017 (http://www.algaworks.com)
 
 # Conhecimentos
+<b>Linguagens</b>
+- JavaEE
+- PHP5
+- HTML5
+- CSS3
+- Javascript (EcmaScript 6)
+- ShellScript
+- COBOL
+- Oracle PL/SQL
+
+<b>Frameworks e ferramentas de desenvolvimento</b>
+- JSF
+- PrimeFaces
+- Hibernate
+- SpringFramework
+- jQuery
+- TypeScript
+- AngularJS
+
+<b>Banco de dados</b>
+- MySQL5
+- Oracle 11g
+- SQLServer
+
+<b>Servidores</b>
+- Apache Tomcat
+- Apache
+- NodeJS
+- JBoss
