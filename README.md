@@ -10,7 +10,7 @@ Email: bruno.carneiro312@gmail.com<br/>
 
 Experiência na área de TI como desenvolvedor desde 2009.<br/>
 Atuei como desenvolvedor Java em fábrica de software, órgão público e processadora financeira de plataformas de crédito e débito.<br/>
-Pude ter contato com diferentes realidades e necessidades oriundas da natureza destas, onde executei desde tarefas de automação de consultas, rotinas de sistemas operacionais, scripts para <i>front-end</i> até processamento <b>batch</b> de transações financeiras.<br/>
+Pude ter contato com diferentes realidades e necessidades oriundas da natureza destas, onde executei desde tarefas de automação de consultas, rotinas de sistemas operacionais, scripts para <i>front-end</i> até processamento <i>batch</i> de transações financeiras.<br/>
 Sou um desenvolvedor com perfil <i>full-stack</i>, atuando utilizando tecnologias de <i>front-end</i> e <i>back-end</i>, com ênfase em <b>Java EE</b>.<br/>
 Possuo conhecimento nos modelos e tecnologias em voga (padrões de projeto e <i>frameworks</i>), procurando manter-me sempre atualizado com as tendências desse mundo que é extramamente dinâmico.<br/>
 Tenho facilidade na assimilação e disseminação do conhecimento bem como no relacionamento interpessoal, valorizando o trabalho em equipe, podendo ser um excelente aliado em um time.
