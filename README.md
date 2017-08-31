@@ -4,7 +4,7 @@ Bruno de Souza Ferreira Carneiro<br/>
 SQN 312 BL: K APT: 102 - Asa Norte<br/>
 Brasília - DF<br/>
 Telefone: (61) 9 8577-0401<br/>
-Email: bruno.carneiro312@gmail.com<br/>
+E-mail: bruno.carneiro312@gmail.com<br/>
 
 # Resumo Profissional
 
