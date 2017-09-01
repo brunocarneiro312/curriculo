@@ -88,6 +88,13 @@ Ciências da computação - UniCEUB
 - NodeJS
 - JBoss
 
+<b>Sistemas de controle de versão</b>
+- Git
+- Subversion (SVN)
+
+<b>Gerenciadores de dependência</b>
+- Apache Maven
+
 <b>Idiomas</b>
 - Inglês fluente
 
