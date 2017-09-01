@@ -47,7 +47,7 @@ Desenvolvo testes unitários dos módulos criados, primando pela otimização da
 
 # Escolaridade
 Cursando Ensino Superior (conclusão em 2019)
-Ciências da computação - UniCEUB
+Ciências da computação - UniCEUB - Brasília - DF
 
 # Cursos de Aperfeiçoamento
 - Lógica de Programação com Orientação a Objeto - SENAC 2006 (http://www.senac.br/)
