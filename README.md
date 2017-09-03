@@ -55,7 +55,7 @@ Ciências da computação - UniCEUB - Brasília - DF
 - Linguagem de programação Java - SENAC 2007 (http://www.senac.br/)
 - Noções em segurança da informação - ANDRESOUTO 2017 (http://www.andradesoto.com.br/)
 - AngularJS - Algaworks 2017 (http://www.algaworks.com)
-- TypeScript - Algaworkds 2017 (http://www.algaworks.com)
+- TypeScript - Algaworks 2017 (http://www.algaworks.com)
 
 # Conhecimentos
 <b>Linguagens</b>
