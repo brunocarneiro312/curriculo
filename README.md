@@ -20,7 +20,7 @@ Tenho facilidade na assimilação e disseminação do conhecimento bem como no r
 Tenho por objetivo trabalhar como <i>freelancer</i> e atuar em <i>startups</i>, onde poderei me desenvolver em novas áreas e tecnologias através do desafio proporcionado por esse ambiente de trabalho.<br/>
 Procuro uma área de atuação onde posso ter contato com projetos novos e novas tecnologias.
 
-# Perfil Profissional
+# Experiência Profissional
 
 <b>DBA - Engenharia de Software</b><br/>
 Trabalhei como trainee no ano de 2009 na fábrica de software DBA na realização de testes unitários e em <i>scripts</i> javascript.<br/> Atuei como profissional externo prestando serviço para o Banco do Brasil.<br/>
