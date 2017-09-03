@@ -35,7 +35,7 @@ No ano de 2011 à 2012 atuei como estagiário na empresa Cabal Brasil LTDA desen
 (<a href="http://www.cabal.com.br">http://www.cabal.com.br</a>)
 
 <b>Secretaria do Patrimônio da União - SPU</b></br>
-No ano de 2012 à 2013 trabalhei como DAS-1 na Secretaria do Patrimônio da União (SPU), realizando a automação de consultas através do desenvolvimento de módulos utilizando tecnologia Java e bando de dados MySQL. O trabalho consistia em realizar a automação de consultas manuais nas bases de dados do SEPRO através da interface por eles disponibilizada (SIAPA) e armazenando os dados requisitados em uma base de dados local para análise posterior.<br/>
+No ano de 2012 à 2013 trabalhei como DAS-1 (Direção e Assessoramento Superiores) na Secretaria do Patrimônio da União (SPU), realizando a automação de consultas através do desenvolvimento de módulos utilizando tecnologia Java e bando de dados MySQL. O trabalho consistia em realizar a automação de consultas manuais nas bases de dados do SEPRO através da interface por eles disponibilizada (SIAPA) e armazenando os dados requisitados em uma base de dados local para análise posterior.<br/>
 (<a href="http://www.planejamento.gov.br/assuntos/gestao/patrimonio-da-uniao">http://www.planejamento.gov.br/assuntos/gestao/patrimonio-da-uniao</a>)
 
 <b>Cabal Brasil LTDA</b><br/>
