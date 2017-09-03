@@ -94,6 +94,8 @@ Ciências da computação - UniCEUB - Brasília - DF
 
 <b>Gerenciadores de dependência</b>
 - Apache Maven
+- npm
+- Bower
 
 <b>Idiomas</b>
 - Inglês fluente
